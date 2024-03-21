@@ -1,4 +1,4 @@
-REGION       = "us-east-1"
+REGION       = "eu-west-2"
 PROJECT_NAME = "Todo-App-EKS"
 
 VPC_CIDR         = "192.168.0.0/16"
